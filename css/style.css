@@ -1,0 +1,35 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+    color: #444;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    color: #069;
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+/* You can add more styles for your blog layout, typography, etc. */
